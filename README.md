@@ -7,7 +7,7 @@ My mission is to help you:
 
   
 
-<ins>PS</ins> - Join 77k+ people learning system design: 
+PS - Join 77k+ people learning system design: 
 [newsletter](https://newsletter.systemdesign.one/)
 
 
