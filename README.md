@@ -1,5 +1,18 @@
 ## Hi there 👋
 
+My mission is to help you:
+
+- pass system design interview
+- become good at work
+
+  
+
+PS - Join 77k+ people learning system design: 
+[newsletter](https://newsletter.systemdesign.one/)
+
+
+~ Neo Kim
+
 <!--
 **systemdesign42/systemdesign42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
