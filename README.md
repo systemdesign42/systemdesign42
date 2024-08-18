@@ -7,7 +7,7 @@ My mission is to help you:
 
   
 
-👋 PS - Join 77K+ people & get the powerful system design template (for free): 
+👋 PS - Join 77K+ people & get the powerful system design template (it's free): 
 [newsletter](https://newsletter.systemdesign.one/)
 
 
