@@ -7,8 +7,8 @@ My mission is to help you:
 
   
 
-👋 PS - Join 90K+ people & get the powerful system design template (it's free): 
-[newsletter](https://newsletter.systemdesign.one/)
+👋 PS - Join 100,000 & get the powerful system design template (it's free): 
+[system design newsletter](https://newsletter.systemdesign.one/)
 
 
 ~ Neo Kim
