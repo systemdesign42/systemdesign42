@@ -2,8 +2,9 @@
 
 My mission is to help you:
 
-- pass system design interview
 - become good at work
+- pass system design interview
+
 
   
 
