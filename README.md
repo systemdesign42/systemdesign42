@@ -3,16 +3,16 @@
 My mission is to help you:
 
 - become good at work
-- pass system design interview
+- pass the system design interview
 
 
   
 
-👋 PS - Join 100,000 engineers & get the powerful system design template (it's free): 
+👋 PS - Join 150,000 engineers & get my system design playbook (it's free): 
 [system design newsletter](https://newsletter.systemdesign.one/)
 
 
-~ Neo Kim
+Neo Kim
 
 <!--
 **systemdesign42/systemdesign42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
