@@ -9,7 +9,7 @@ My mission is to help you:
   
 
 👋 PS - Join 180,000 engineers & get my system design playbook (it's free): 
-[system design newsletter](https://newsletter.systemdesign.one/subscribe)
+[system design newsletter](https://newsletter.systemdesign.one/join)
 
 
 Neo Kim
