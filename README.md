@@ -2,13 +2,13 @@
 
 My mission is to help you:
 
-- become good at work
-- pass the system design interview
+- get successful at work,
+- become good at AI engineering,
+- pass the system design interview,
+- learn system design through simplified concepts.
 
 
-  
-
-👋 PS - Join 200,000+ engineers & get my system design playbook (it's free): 
+👋 PS - Join 250,000+ others & get my system design playbook (it's free): 
 [system design newsletter](https://newsletter.systemdesign.one/join)
 
 
